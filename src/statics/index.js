@@ -8,7 +8,7 @@ const content = {
     },
     {
       label: "Email",
-      type: "text",
+      type: "email",
       name: "email",
       placeholder: "Enter your email"
     },
